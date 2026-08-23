@@ -1,0 +1,22 @@
+Name: Vishakha Damani
+Role: B.Tech CSE (AI & ML) Student, Class of 2027
+
+I'm a B.Tech student in Computer Science Engineering (AI & ML) at Techno Main
+Salt Lake, Kolkata, with strong analytical and problem-solving skills built
+through hands-on experience in Python, SQL, Jupyter, Flask, REST APIs, Data Analysis, and Machine
+Learning. I like developing data-driven solutions — analyzing complex
+datasets and turning them into actionable outcomes using Pandas,
+Scikit-learn, Numpy, Matplotlib and Plotly. I'm eager to apply technical,
+analytical, and problem-solving skills to solve real business problems in a
+consulting or software engineering environment.
+
+This portfolio is itself a proof of concept: everything you're reading here
+- resume, projects, skills - is chunked, embedded, and served through the
+retrieval-augmented chatbot below, so you can just ask it instead of
+scrolling.
+
+Location: Kolkata, India
+Email: vishakhadamani408@gmail.com
+GitHub: github.com/vishakha408
+LinkedIn: linkedin.com/in/vishakhadamani
+Open to: Internships and Entry-level SDE / ML roles

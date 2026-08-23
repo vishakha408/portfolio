@@ -1,0 +1,8 @@
+.env
+backend/.env
+.venv/
+.venv-1/
+__pycache__/
+node_modules/
+dist/
+rag/storage/

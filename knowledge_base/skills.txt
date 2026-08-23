@@ -1,0 +1,6 @@
+Languages: Python, SQL, C, HTML, CSS
+Data & ML: NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly
+Frameworks & Tools: Flask, Git/GitHub, MySQL, SQLite, Render
+APIs & Integration: REST APIs, Google Gemini API, yfinance
+Core CS: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems
+Concepts: Data Preprocessing & Cleaning, Feature Engineering, Data Visualization

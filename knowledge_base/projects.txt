@@ -1,0 +1,12 @@
+Stock Analyzer Web App
+Built a stock analysis web app that generates BUY / HOLD / SELL signals using a hybrid model combining fundamental and technical indicators.
+Integrated yfinance for real-time financial data and implemented RSI (Relative Strength Index) + MACD technical analysis with interactive visual charts.
+Leveraged Google Gemini AI to generate concise investment insights and risk analysis summaries.
+Optimized performance using Flask-Caching and deployed the app on Render.
+Github:https://github.com/vishakha408/flask-portfolio
+
+HR Data Analysis Dashboard
+Built an interactive Plotly dashboard analyzing workforce data for 1,400+ employees, with rule-based KPIs (attrition rate, promotion rate,retrenchment rate) from raw HR records. Cleaned workforce data and performed EDA and feature engineering in Python (Pandas).
+Trained a Random Forest classifi er on the same dataset to predict employee attrition, applying class weighting to correct for severe classimbalance — improved recall from 0.08 to 0.60, cutting missed at-risk employees.
+Used feature-importance rankings from the model to identify top attrition drivers (e.g. tenure, overtime, promotion history).
+Github:https://github.com/vishakha408/HR-Analytics
