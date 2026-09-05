@@ -33,7 +33,7 @@ export default function Navbar({ name = "Yash Raj" }) {
         <div className="hidden md:block">
           <a
             href="/resume.pdf"
-            download="Resume.pdf"
+            download=" Resume.pdf"
             className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/[0.03] px-4 py-1.5 font-mono text-xs uppercase tracking-widest text-white transition-all duration-300 hover:border-[#fb923c] hover:bg-[#fb923c] hover:text-black active:scale-95 shadow-md hover:shadow-orange-500/20"
           >
             <span>Resume</span>

@@ -2,6 +2,8 @@
 main.py — FastAPI application entrypoint.
 
 Run locally:
+    npm install, npm run dev
+
     cd backend
     uvicorn main:app --reload --port 8000
 """
@@ -67,3 +69,6 @@ def reindex() -> dict:
 def health() -> dict:
     """Healthcheck endpoint for deployment platforms & uptime monitors."""
     return {"status": "ok"}
+
+
+#RAG, main, model, chat?

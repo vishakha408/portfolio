@@ -70,3 +70,4 @@ if __name__ == "__main__":
     print(f"{len(docs)} documents -> {len(chunks)} chunks")
     for c in chunks[:3]:
         print(f"  [{c['source']}#{c['chunk_id']}] {c['text'][:80]}...")
+
