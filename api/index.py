@@ -1,9 +1,7 @@
-import sys
-import os
+import sys, os
 
-# Ensure the root directory is on sys.path
-root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if root_dir not in sys.path:
-    sys.path.insert(0, root_dir)
+# Put backend/ FIRST in the search path so its internal "api" package
+# (backend/api/chat.py) is found before the root-level api/ folder.
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "backend"))
 
-from backend.main import app
+from main import app
