@@ -18,8 +18,8 @@ from google.genai.errors import APIError, ClientError, ServerError
 logger = logging.getLogger(__name__)
 
 # Use high-quota flash models by default
-_PRIMARY_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
-_FALLBACK_MODEL = os.getenv("GEMINI_FALLBACK_MODEL", "gemini-2.5-flash-lite")
+_PRIMARY_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
+_FALLBACK_MODEL = os.getenv("GEMINI_FALLBACK_MODEL", "gemini-3.5-flash-lite")
 
 _SYSTEM_INSTRUCTION = """You are the AI assistant embedded in a personal portfolio website.
 Answer questions about the portfolio owner using ONLY the context chunks provided below,
